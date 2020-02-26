@@ -1,0 +1,6 @@
+{
+  "name": "581_shortest_unsorted_continuous_subarray",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+,"scripts": { "dev": "nodemon --exec python3 main.py ./main.py" }}
